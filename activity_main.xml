@@ -30,7 +30,7 @@
             android:visibility="visible"
             app:icon="@drawable/ic_launcher_foreground"
             app:iconPadding="18dp"
-            app:iconTint="#C61609"
+            app:iconTint="#CD1F12"
             app:rippleColor="#DEEFF1"
             tools:visibility="visible" />
 
